@@ -1,0 +1,288 @@
+[
+  {
+    "name": "OnePlus Nord 3 5G (Misty Green, 128 GB)  (8 GB RAM)",
+    "price": 435.42,
+    "description": "5000mAh battery with 80W SUPERVOOC charging power powerful enough to keep you going all day and all night long. 8GB RAM and 128GB ROM for smooth multitasking and the storage of a large number of files, apps, and games. Massive 6.74 Inches AMOLED display provides you with the most realistic viewing experience.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/oneplus-1.png"
+      },
+      {
+        "image": "/images/products/oneplus-2.png"
+      },
+      {
+        "image": "/images/products/oneplus-3.png"
+      },
+      {
+        "image": "/images/products/oneplus-4.png"
+      },
+      {
+        "image": "/images/products/oppo-5.jpeg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 15,
+    "numOfReviews": 14,
+    "reviews": []
+  },
+  {
+    "name": "WRISTIO 3 1.85' HD Bluetooth Calling 50+, Split-screen Smartwatch  (Black Strap, Free Size)",
+    "price": 150.32,
+    "description": "Stylish & Lightweight. Meet the most iconic WRISTIO 3, a durable, and affordable smartwatch of the time. With the 1.85' HD display.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/wristio-1.jpeg"
+      },
+      {
+        "image": "/images/products/wristio-2.jpeg"
+      },
+      {
+        "image": "/images/products/wristio-3.jpeg"
+      },
+      {
+        "image": "/images/products/wristio-4.jpeg"
+      },
+      {
+        "image": "/images/products/wristio-5.jpeg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 10,
+    "numOfReviews": 5,
+    "reviews": []
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop, Intel Core i5-1135G7, 8GB, 512GB SSD, 15.6'(39.62cm)",
+    "price": 440.57,
+    "description": "Processor: Intel i5-1135G7 (Up to 4.20 Ghz 4 cores 8MB) RAM & Storage: 8GB, 8Gx1, DDR4, 3200MHz_2666MHz & 512GB SSD Software: Win 11 Home + Office H&S 2021.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/dell-1.jpg"
+      },
+      {
+        "image": "/images/products/dell-2.jpg"
+      },
+      {
+        "image": "/images/products/dell-3.jpg"
+      },
+      {
+        "image": "/images/products/dell-4.jpg"
+      },
+      {
+        "image": "/images/products/dell-5.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 8,
+    "numOfReviews": 12,
+    "reviews": []
+  },
+  {
+    "name": "PTron Tangent Sports, 60Hrs Playtime, in-Ear Wireless Earphone, HD Mic, Type-C Fast Charging & IPX4",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls 10mm Dynamic Speakers.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/ptron-1.jpg"
+      },
+      {
+        "image": "/images/products/ptron-2.jpg"
+      },
+      {
+        "image": "/images/products/ptron-3.jpg"
+      },
+      {
+        "image": "/images/products/ptron-4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 7,
+    "numOfReviews": 20,
+    "reviews": []
+  },
+  {
+    "name": "SONY Alpha ILCE-7M3K Full Frame Mirrorless Camera with 28-70 mm Zoom LensFeaturing Eye AF and 4K movie recording",
+    "price": 545.46,
+    "description": "Impress the world with stunning photos and wonderful videos captured using this Sony α7 III DSLR camera that meets all your shooting needs with its innovative features. This camera features a 35 mm Full-frame Image Sensor.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/sony-1.jpeg"
+      },
+      {
+        "image": "/images/products/sony-2.jpeg"
+      },
+      {
+        "image": "/images/products/sony-3.jpeg"
+      },
+      {
+        "image": "/images/products/sony-4.jpeg"
+      },
+      {
+        "image": "/images/products/sony-5.jpeg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 12,
+    "numOfReviews": 17,
+    "reviews": []
+  },
+  {
+    "name": "Lenovo Ideapad Slim 3 Celeron Dual Core Laptop - (4 GB/256 GB SSD/Windows 10 Home)(15.6 inch, Platinum Grey, 1.85 kg)",
+    "price": 250.45,
+    "description": "Processor: 11th Gen Intel Core i3-1115G4 | Speed: 3.0 GHz (Base) - 4.1 GHz (Max) | 6MB Cache Display: 14' FHD (1920x1080) | 250Nits Brightness | Memory: 8GB RAM DDR4-3200, upgradable Up to 12GB | Storage: 512 GB SSD OS & Software: Windows 11 Home 64.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/lenovo-1.jpg"
+      },
+      {
+        "image": "/images/products/lenovo-2.jpg"
+      },
+      {
+        "image": "/images/products/lenovo-3.jpg"
+      },
+      {
+        "image": "/images/products/lenovo-4.jpg"
+      },
+      {
+        "image": "/images/products/lenovo-5.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Flipkart",
+    "stock": 12,
+    "numOfReviews": 12,
+    "reviews": []
+  },
+  {
+    "name": "OPPO F21s Pro 5G (Starlight Black, 128 GB)  (8 GB RAM)",
+    "price": 245.67,
+    "description": "The front camera automatically detects the background light and uses an algorithm to suppress bright light when it detects a backlit face or an overlit background, In Portrait mode bokeh and HDR are used together.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/oppo-1.jpg"
+      },
+      {
+        "image": "/images/products/oppo-2.jpg"
+      },
+      {
+        "image": "/images/products/oppo-3.jpg"
+      },
+      {
+        "image": "/images/products/oppo-4.jpg"
+      },
+      {
+        "image": "/images/products/oppo-5.jpg"
+      },
+      {
+        "image": "/images/products/oppo-6.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 7,
+    "numOfReviews": 15,
+    "reviews": []
+  },
+  {
+    "name": "ASUS VivoBook 15 (2022) Core i5 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) Thin and Light Laptop (15.6 inch, 1.80 kg)",
+    "price": 767.32,
+    "description": "The outstanding Asus VivoBook 15 laptop, created to simplify your workday and improve performance, offers fantastic efficiency and stunning aesthetics.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/asus-1.jpeg"
+      },
+      {
+        "image": "/images/products/asus-2.jpeg"
+      },
+      {
+        "image": "/images/products/asus-3.jpeg"
+      },
+      {
+        "image": "/images/products/asus-4.jpeg"
+      },
+      {
+        "image": "/images/products/asus-5.jpeg"
+      },
+      {
+        "image": "/images/products/asus-6.jpeg"
+      },
+      {
+        "image": "/images/products/asus-7.jpeg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 8,
+    "numOfReviews": 12,
+    "reviews": []
+  },
+  {
+    "name": "PTron Tangent Sports, 60Hrs Playtime, in-Ear Wireless Earphone, HD Mic, Type-C Fast Charging & IPX4",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls 10mm Dynamic Speakers.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/ptron-1.jpg"
+      },
+      {
+        "image": "/images/products/ptron-2.jpg"
+      },
+      {
+        "image": "/images/products/ptron-3.jpg"
+      },
+      {
+        "image": "/images/products/ptron-4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 7,
+    "numOfReviews": 20,
+    "reviews": []
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.12,
+    "description": "Escalate your runs and jogs with this up to scratch pair of running shoes from Campus. These shoes come with Active Cell technology which makes it feather-light and a rubberized midsole material.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/shoe-1.jpeg"
+      },
+      {
+        "image": "/images/products/shoe-2.jpeg"
+      },
+      {
+        "image": "/images/products/shoe-3.jpeg"
+      },
+      {
+        "image": "/images/products/shoe-4.jpeg"
+      },
+      {
+        "image": "/images/products/shoe-5.jpeg"
+      },
+      {
+        "image": "/images/products/shoe-6.jpeg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Flipkart",
+    "stock": 10,
+    "numOfReviews": 10,
+    "reviews": []
+  }
+]
